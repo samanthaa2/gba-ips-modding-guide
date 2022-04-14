@@ -1,6 +1,9 @@
 # GameBoy Advance IPS Modding Guide
 This repository will show you how to mod a regular GameBoy Advance (AGB-001) by replacing the screen with a backlit, much nicer IPS screen.
 
+![gbamodding](https://user-images.githubusercontent.com/91910634/163347594-412b8e60-ccae-4c4f-9ffc-0d647f82982a.png)
+
+
 # Required Parts and Tools
 - GameBoy Advance (AGB-001)
 - [GBA IPS Screen](https://funnyplaying.com/products/4-pixels-in-1-ips-full-viewing-angle-gameboy-advance-replacement-project?_pos=2&_sid=cadb7c2fc&_ss=r)
